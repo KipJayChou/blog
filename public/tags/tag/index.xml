@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on KipJayChou</title>
+    <link>http://localhost:1313/tags/tag/</link>
+    <description>Recent content in Tag on KipJayChou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jaychou070220@outlook.com (Jay)</managingEditor>
+    <webMaster>jaychou070220@outlook.com (Jay)</webMaster>
+    <copyright>© 2024 Jay</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>selfhost.md</title>
+      <link>http://localhost:1313/sh-prj/1733934440907-selfhost.md/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/sh-prj/1733934440907-selfhost.md/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sh-prj/1733934440907-selfhost.md/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

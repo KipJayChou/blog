@@ -1,0 +1,18 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "KipJayChou"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "OLYGsc.png"
+secondaryLogo = "https://ooo.0x0.ooo/2024/12/10/OLYGsc.png"
+description = "Where Possible Begins"
+author = { name = "Jay", image = "https://ooo.0x0.ooo/2024/12/10/OLYSor.png", headline = "I crossed eras!", bio = "Student from JXUFE,Linux Selfhost Hardware Honnyist......" }
+
+[author]
+links = []

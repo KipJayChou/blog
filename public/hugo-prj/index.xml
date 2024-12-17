@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo-Prjs on KipJayChou</title>
+    <link>http://localhost:1313/hugo-prj/</link>
+    <description>Recent content in Hugo-Prjs on KipJayChou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jaychou070220@outlook.com (Jay)</managingEditor>
+    <webMaster>jaychou070220@outlook.com (Jay)</webMaster>
+    <copyright>© 2024 Jay</copyright>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-prj/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo安装</title>
+      <link>http://localhost:1313/hugo-prj/install/install/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/hugo-prj/install/install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo配置</title>
+      <link>http://localhost:1313/hugo-prj/config/config/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/hugo-prj/config/config/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo项目目录</title>
+      <link>http://localhost:1313/hugo-prj/catalogue/catalogue/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/hugo-prj/catalogue/catalogue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FreeBSD VM</title>
+      <link>http://localhost:1313/hugo-prj/freebsd/freebsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/hugo-prj/freebsd/freebsd/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

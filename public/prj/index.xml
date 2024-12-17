@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prjs on KipJayChou</title>
+    <link>http://localhost:1313/prj/</link>
+    <description>Recent content in Prjs on KipJayChou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jaychou070220@outlook.com (Jay)</managingEditor>
+    <webMaster>jaychou070220@outlook.com (Jay)</webMaster>
+    <copyright>Unauthorized reproduction is prohibited!</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/prj/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Todo</title>
+      <link>http://localhost:1313/prj/todo/todo/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/todo/todo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SelfHost</title>
+      <link>http://localhost:1313/prj/selfhost/sh/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/selfhost/sh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mirror Website</title>
+      <link>http://localhost:1313/prj/mirror/mirror/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/mirror/mirror/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OneNav Navigate</title>
+      <link>http://localhost:1313/prj/onenav/onenav/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/onenav/onenav/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My GPG Pub Key</title>
+      <link>http://localhost:1313/prj/gpg/gpg/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/gpg/gpg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FreeBSD Try</title>
+      <link>http://localhost:1313/prj/freebsd-try/freebsd-try/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/freebsd-try/freebsd-try/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FreeBSD VM</title>
+      <link>http://localhost:1313/prj/freebsd-vm/freebsdvm/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/freebsd-vm/freebsdvm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo-prj目录</title>
+      <link>http://localhost:1313/prj/catalogue/catalogue/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/catalogue/catalogue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo安装</title>
+      <link>http://localhost:1313/prj/install/install/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/install/install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo美化</title>
+      <link>http://localhost:1313/prj/beautify/beautify/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/beautify/beautify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo配置</title>
+      <link>http://localhost:1313/prj/config/config/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>jaychou070220@outlook.com (Jay)</author>
+      <guid>http://localhost:1313/prj/config/config/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

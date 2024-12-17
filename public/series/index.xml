@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on KipJayChou</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on KipJayChou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jaychou070220@outlook.com (Jay)</managingEditor>
+    <webMaster>jaychou070220@outlook.com (Jay)</webMaster>
+    <copyright>Unauthorized reproduction is prohibited!</copyright>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
